@@ -16,8 +16,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This is iamthe1.cc
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: We_are_the1
+facebook_username:  InnerTruth1
 
 # Build settings
 markdown: kramdown
