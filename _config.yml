@@ -9,9 +9,11 @@
 title: We are all the one
 email: wilburwilliams7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Our mission at iamthe1.cc is to help the people of the 
+  world find and unlock their innate human potential. 
+  We believe that all humans have the gene of greatness inside of them.
+  It is simply up to us, the messengers, to guide our people towards the light.
+  This is iamthe1.cc
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
